@@ -41,6 +41,7 @@ public class DatabaseHandler extends SQLiteOpenHelper {
     public void onCreate(SQLiteDatabase db) {
 
         //SQL - Structured Query Language
+        //fff
 
         String CREATE_CARS_TABLE = "CREATE TABLE " + Util.TABLE_NAME + "("
 
